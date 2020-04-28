@@ -1,5 +1,0 @@
-data:
-  env: config-consumer-dev
-  user:
-    username: config-consumer-dev-user
-    password: 1291029102
