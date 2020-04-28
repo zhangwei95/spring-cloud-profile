@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: config-product-client
+server:
+  port: 3003
